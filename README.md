@@ -1,6 +1,6 @@
-<h1 align="center">Привет всем! Меня зовут Полина.</a> 
+<h1 align="center">Привет всем! Меня зовут Полина</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Начинающий веб-разработчик из Калининграда.</h3>
+<h3 align="center">Начинающий веб-разработчик из Калининграда</h3>
 <ins>О себе:</ins>
 <ul type="square">
 <li>учусь новому</li>
