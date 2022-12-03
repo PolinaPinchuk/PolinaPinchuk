@@ -22,5 +22,5 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25"/></p>
 <ins>Контакты:</ins>
 <p>https://t.me/P_o_lly</p>
-<ins>Статистика используемых языков в репозиториях:</ins>
+<ins>Статистика используемых в репозиториях языков:</ins>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolinaPinchuk&theme=solarized_dark"/>
