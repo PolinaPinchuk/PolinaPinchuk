@@ -5,8 +5,8 @@
 <ul type="square">
 <li>учусь новому</li>
 <li>мечтаю работать с опытными разработчиками</li>
-<li>работаю над ошибками</li>
 <li>развиваю имеющиеся навыки и знания</li>
+<li>работаю над ошибками</li>
 </ul>
 <ins>Используемые языки, технологии, инструменты:</ins>
 <p><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/> 
